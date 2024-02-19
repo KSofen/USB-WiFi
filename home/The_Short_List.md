@@ -58,7 +58,7 @@ Panda PAU03 [1] (nano)       rt5370  / N150     / 2.4            USB2 Yes   Shor
 
 Panda PAU04                  rt5370  / N150     / 2.4            USB2 Yes   Medium     Single
 
-CanaKit BC19675              rt5370  / N150     / 2.4            USB2 Yes   Short      Single
+CanaKit BC19675 [4]          rt5370  / N150     / 2.4            USB2 Yes   Short      Single
 
 EDUP EP-MS8551 [1] [4]       mt7601u / N150     / 2.4            USB2 Yes   Very Long  Single
 
